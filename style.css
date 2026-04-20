@@ -1,0 +1,40 @@
+body {
+    font-family: 'Aref Ruqaa', serif;
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20210709/pngtree-abstract-backgrouns-set-grunge-texture-minimalistic-art-brush-strokes-style-design-image_739359.jpg");
+    background-repeat:repeat;
+    color:black;
+}
+div{
+border:5px solid black;
+padding: 20px;
+margin: 50px;
+text-align: center;
+letter-spacing: normal;
+font-size: larger;
+font-weight: 800;
+cursor:pointer;
+background-attachment: fixed;
+border-radius: 50px;
+}
+.planet{
+    font-size:50px;
+}
+.hh3{
+    font-size:50px;
+}
+.hh2{
+    font-size:50px;
+}
+.hhh3{
+    font-size:50px;
+}
+.hhh2{
+    font-size:50px;
+}
+.planet{
+    text-align: center;
+    font-size: 60px;
+}
+.tabble{
+    text-align: center;
+}
